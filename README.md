@@ -111,10 +111,23 @@ Go to [http://localhost:3000](http://localhost:3000) in your browser.
 ### Map Interface
 A clean and interactive map interface:
 
-![Map Interface](![Uploading Screenshot (1).png…]()
-)
+### 1. Main Interface
+![Main Interface](./public/Screenshot%202025-01-10%20115825.png)
 
----
+### 2. Example Screenshot 1
+![Screenshot 1](./public/Screenshot%202025-01-10%20120514.png)
+
+### 3. Example Screenshot 2
+![Screenshot 2](./public/Screenshot%202025-01-10%20120523.png)
+
+### 4. Example Screenshot 3
+![Screenshot 3](./public/Screenshot%202025-01-10%20120549.png)
+
+### 5. Example Screenshot 4
+![Screenshot 4](./public/Screenshot%202025-01-10%20120604.png)
+
+### 6. Example Screenshot 5
+![Screenshot 5](./public/Screenshot%202025-01-10%20120623.png)
 
 ## Future Improvements
 - Add authentication for user sessions.
