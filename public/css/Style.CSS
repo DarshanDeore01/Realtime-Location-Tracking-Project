@@ -1,0 +1,20 @@
+/* Reset default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure the HTML and body take up the full viewport height and width */
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif; /* Optional: Set a global font for text elements */
+}
+
+/* Full-screen map container */
+#map {
+    width: 100%;
+    height: 100%;
+    background-color: #f0f0f0; /* Fallback background color while the map loads */
+}
